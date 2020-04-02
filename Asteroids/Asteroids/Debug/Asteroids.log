@@ -1,0 +1,7 @@
+﻿  Asteroids.cpp
+c:\users\artem\desktop\asteroids\asteroids\asteroids.cpp(30): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\artem\desktop\asteroids\asteroids\asteroids.cpp(294): warning C4838: преобразование из "int" в "float" требует сужающего преобразования
+c:\users\artem\desktop\asteroids\asteroids\asteroids.cpp(294): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+c:\users\artem\desktop\asteroids\asteroids\asteroids.cpp(484): warning C4838: преобразование из "int" в "float" требует сужающего преобразования
+c:\users\artem\desktop\asteroids\asteroids\asteroids.cpp(484): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+  Asteroids.vcxproj -> C:\Users\Artem\Desktop\Asteroids\Debug\Asteroids.exe
